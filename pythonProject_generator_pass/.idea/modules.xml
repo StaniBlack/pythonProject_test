@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/pythonProject_generator_pass.iml" filepath="$PROJECT_DIR$/.idea/pythonProject_generator_pass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pythonProject_generator.iml" filepath="$PROJECT_DIR$/.idea/pythonProject_generator.iml" />
     </modules>
   </component>
 </project>
